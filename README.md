@@ -1,2 +1,2 @@
-# Finance_Pic
-รูปภาพ_คู่มือแนวทางปฏิบัติและควบคุมงานการเงิน_FINANCE_TOOLKIT
+# Training_PicUp
+รูปภาพใช้งานต่างๆ ใน Line OA
