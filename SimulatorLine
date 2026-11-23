@@ -1,0 +1,79 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Test Knowledge 4/2026",
+        "size": "xl",
+        "color": "#ffffff",
+        "weight": "bold",
+        "align": "center"
+      }
+    ],
+    "backgroundColor": "#E50914"
+  },
+  "hero": {
+    "type": "video",
+    "url": "https://youtu.be/S5qJXYNNINo",
+    "previewUrl": "https://i.ytimg.com/vi/S5qJXYNNINo/maxresdefault.jpg",
+    "altContent": {
+      "type": "image",
+      "size": "full",
+      "aspectRatio": "16:9",
+      "aspectMode": "cover",
+      "url": "https://raw.githubusercontent.com/jatawat-tee/Training_PicUp/main/IMG_6839.png"
+    },
+    "aspectRatio": "16:9"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "8 December 2026",
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "separator",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "13.30 & 15.00",
+            "size": "lg",
+            "margin": "sm"
+          }
+        ],
+        "alignItems": "center"
+      }
+    ],
+    "spacing": "sm",
+    "margin": "md",
+    "alignItems": "center"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "อ่านต่อ",
+          "text": "Test Knowledge 4/2026"
+        },
+        "style": "primary",
+        "color": "#E50914"
+      }
+    ]
+  }
+}
